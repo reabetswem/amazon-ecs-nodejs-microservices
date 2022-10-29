@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "koa": "^1.2.5",
+    "fund": "^1.0.0",
+    "koa": "^1.7.0",
     "koa-router": "^5.4.0"
   },
   "scripts": {
